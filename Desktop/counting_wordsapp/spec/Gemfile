@@ -1,0 +1,9 @@
+source('https://rubygems.org') #this is where the magic gems come from
+
+
+#these are the gems I would use
+gem('sinatra')
+gem('sinatra-contrib')
+gem('rspec')
+gem('capybara')
+gem('pry')
